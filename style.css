@@ -236,20 +236,12 @@
   }
   /* fim do rodapé */
 
-
-  <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Hamburgueria</title>
-
-    <style>
+  
         /* Estilos básicos da página */
         body {
             font-family: Arial, sans-serif;
-            background-color: #222222; /* Fundo escuro */
-            color: #ffffff; /* Texto branco */
+            background-color: #222222;
+            color: #ffffff;
             text-align: center;
             margin: 0;
             padding: 20px;
@@ -257,7 +249,7 @@
 
         /* Título principal */
         h1 {
-            color: #ff5722; /* Laranja */
+            color: #ff5722;
         }
 
         /* Layout dos produtos side-by-side */
@@ -350,15 +342,15 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #FDFBF7; /* Fundo Creme */
-    color: #3E2723; /* Texto Marrom Escuro */
+    background-color: #FDFBF7;
+    color: #3E2723; 
     margin: 0;
     padding: 0;
 }
 
 /* 2. Cabeçalho / Topo */
 header {
-    background-color: #C0392B; /* Vermelho */
+    background-color: #C0392B;
     color: white;
     text-align: center;
     padding: 25px 10px;
@@ -387,8 +379,8 @@ header p {
 /* 4. Cartão do Produto */
 .cartao {
     background-color: #FFFFFF;
-    border: 2px solid #F39C12; /* Borda Amarela/Laranja */
-    border-radius: 8px; /* Bordas arredondadas */
+    border: 2px solid #F39C12;
+    border-radius: 8px;
     width: 280px;
     margin: 15px;
     padding: 15px;
@@ -425,7 +417,7 @@ header p {
 .descricao {
     font-size: 14px;
     color: #555555;
-    min-height: 40px; /* Mantém os botões alinhados */
+    min-height: 40px;
 }
 
 .preco {
@@ -448,15 +440,6 @@ header p {
 }
 
 .botao:hover {
-    background-color: #A93226; /* Vermelho mais escuro no hover */
+    background-color: #a93223;
 }
 
-/* 6. Rodapé */
-footer {
-    background-color: #3E2723;
-    color: white;
-    text-align: center;
-    padding: 15px;
-    margin-top: 30px;
-    font-size: 14px;
-}
